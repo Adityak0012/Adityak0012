@@ -1,6 +1,4 @@
 # 💫 About Me:
-
-<div align="center">
   
 # 👋 Hi, I'm Aditya Kale
 
