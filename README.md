@@ -1,6 +1,6 @@
 # 💫 About Me:
   
-# 👋 Hi, I'm Aditya Kale
+# Hi, I'm Aditya Kale
 
 🎓 Final-Year Computer Engineering Student<br>💻 MERN Stack Developer | Data Science Enthusiast<br>🚀 Passionate about Building Real-World Web Applications<br>🌱 Continuously Learning Modern Technologies & Data Science<br>💬 Open to Discussions on MERN, JavaScript & Web Development
 
